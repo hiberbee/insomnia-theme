@@ -1,0 +1,30 @@
+{
+  "name": "@hiberbee/insomnia-theme",
+  "description": "Hiberbee color palette for Insomnia app",
+  "version": "1.0.0",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiberbee/insomnia-theme"
+  },
+  "author": {
+    "name": "Vlad Volkov",
+    "url": "https://github.com/vladyslavvolkov",
+    "email": "vlad@hiberbee.com"
+  },
+  "maintainers": [
+    {
+      "name": "Vlad Volkov",
+      "url": "https://github.com/vladyslavvolkov",
+      "email": "vlad@hiberbee.com"
+    }
+  ],
+  "main": "src/index.js",
+  "insomnia": {
+    "name": "hiberbee-theme",
+    "description": ""
+  },
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}
