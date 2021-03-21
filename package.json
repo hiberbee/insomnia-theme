@@ -1,7 +1,12 @@
 {
   "name": "@hiberbee/insomnia-theme",
   "description": "Hiberbee color palette for Insomnia app",
-  "version": "1.0.0",
+  "keywords": [
+    "hiberbee-theme",
+    "insomnia-plugin",
+    "insomnia-theme"
+  ],
+  "version": "1.0.1",
   "readme": "README.md",
   "repository": {
     "type": "git",
